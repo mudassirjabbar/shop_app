@@ -1,0 +1,13 @@
+{
+    "zenMode.fullScreen": false,
+    "zenMode.hideActivityBar": true,
+    "zenMode.centerLayout": false,
+    "breadcrumbs.enabled": false,
+    "workbench.editor.labelFormat":"short",
+    "workbench.editor.showIcons":false,
+    "editor.folding":false,
+    "editor.glyphMargin": false,
+    "editor.lineDecorationsWidth":20,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.verticalScrollbarSize": 0,
+}
